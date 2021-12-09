@@ -1,2 +1,2 @@
 # Node-React-Integration
-Integration of react application with node api example
+Integration of react with node through api example
